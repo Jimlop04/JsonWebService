@@ -18,7 +18,7 @@
         android:layout_marginEnd="36dp"
         android:layout_marginBottom="488dp"
         android:onClick="ConsultaVolley"
-        android:text="Mostrar Informacion"
+        android:text="Consumir API"
         android:textSize="12sp" />
 
     <Button
