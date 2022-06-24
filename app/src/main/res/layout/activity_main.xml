@@ -44,7 +44,6 @@
         android:layout_centerHorizontal="true"
         android:layout_marginStart="100dp"
         android:layout_marginBottom="306dp"
-        android:onClick="VerificarUsuario"
         android:text="INGRESAR" />
 
     <EditText
